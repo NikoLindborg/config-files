@@ -13,5 +13,5 @@ npm init @eslint/config
 - JavaScript
 - Yes
 ````
-npm install --save-dev prettier eslint-plugin-prettier eslint-config-prettier
+npm i --save-dev prettier eslint-plugin-prettier eslint-config-prettier
 ````
